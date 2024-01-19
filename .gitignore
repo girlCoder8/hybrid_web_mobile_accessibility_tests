@@ -1,0 +1,4 @@
+# Ignore dist & converage folders
+dist/
+converage/
+
